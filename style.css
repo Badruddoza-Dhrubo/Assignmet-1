@@ -1,0 +1,105 @@
+body {
+    font-family: 'Anek Devanagari', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 10%;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    background-color: rgb(204, 22, 62);
+    color: white;
+    border: none;
+    text-decoration: none;
+    padding: 8px 36px;
+    border-radius: 10px;
+}
+
+.half-width img {
+    width: 50%;
+}
+
+.top-part {
+    margin-bottom: 100px;
+}
+
+#text-center {
+    text-align: center;
+}
+
+.mission {
+    width: 30%;
+    margin-left: 140px;
+    background-color: antiquewhite;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+.mission img {
+    width: 40%;
+}
+
+.vision {
+    width: 30%;
+    margin-left: 40px;
+    background-color: rgb(245, 202, 147);
+    padding-left: 30px;
+    padding-bottom: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+.vision img {
+    width: 40%;
+}
+
+.goals {
+    width: 30%;
+    margin-left: 40px;
+    background-color: rgb(220, 245, 180);
+    padding-left: 30px;
+    padding-bottom: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+.goals img {
+    width: 40%;
+}
+
+.develop {
+    display: flex;
+}
+
+.contact-section {
+    display: flex;
+}
+
+.box-shadow {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 5px 20px gray;
+    margin-left: 10px;
+    margin-bottom: 100px;
+    padding: 15px;
+    width: 30%;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
